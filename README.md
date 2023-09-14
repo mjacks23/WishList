@@ -28,6 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![Kapture 2023-09-14 at 12 07 50](https://github.com/mjacks23/WishList/assets/117658635/d03e1165-796a-4d86-81a7-2fbb9f42c289)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
